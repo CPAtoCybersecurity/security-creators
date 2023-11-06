@@ -1,5 +1,16 @@
 [
  {
+   "name": "CPA to Cybersecurity",
+   "location": "Canada",
+   "timezone": "EST (UTC-5)",
+   "avatar": "cpatocybersecurity.jpg",
+   "schedule": "Weekly Videos",
+   "tags": ["GRC", "IT Audit", "Accounting", "Career"],
+   "links": [
+      ["https://www.youtube.com/@cpatocybersecurity", "fab fa-youtube"],
+   ]
+ },
+ {
    "name": "Dimitris Kalopisis",
    "location": "Greece",
    "timezone": "GMT +2",
